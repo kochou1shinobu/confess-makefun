@@ -1,0 +1,1 @@
+I spent a whole night optimizing a VM entry to a perfect score — then ranked 6,585th, because I had optimized the wrong variable.
